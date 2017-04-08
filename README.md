@@ -1,4 +1,6 @@
-## material-ui-scrolling-techniques
+## material-ui-scrolling-techniques-rev
+
+> This is a temporal forked repository waiting to merge a pull request in original repo
 
 This project is a work in progress implementation of the [scrolling techniques](https://www.google.com/design/spec/patterns/scrolling-techniques.html) described in the material design spec. It is designed to be used with [material-ui](https://github.com/callemall/material-ui). The goal of this repository is to experiment with the API and various scrolling approaches before officially merging it into material-ui.
 
