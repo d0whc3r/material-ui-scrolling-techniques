@@ -1,6 +1,6 @@
 {
   "name": "material-ui-scrolling-techniques-rev",
-  "version": "0.2.1",
+  "version": "0.2.1-1",
   "description": "Scrolling techniques from material design spec for material-ui (reviewed)",
   "main": "./lib",
   "scripts": {
