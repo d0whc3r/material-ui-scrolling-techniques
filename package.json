@@ -1,6 +1,6 @@
 {
   "name": "material-ui-scrolling-techniques-rev",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Scrolling techniques from material design spec for material-ui (reviewed)",
   "main": "./lib",
   "scripts": {
@@ -9,7 +9,6 @@
     "build:lib": "babel ./src --out-dir ./lib",
     "build": "npm run build:lib && npm run build:examples",
     "deploy": "(npm run build:examples && gh-pages -d examples/dist)",
-    "postinstall": "npm install && npm run build:lib",
     "start": "(cd examples && npm install && npm start)"
   },
   "repository": {
