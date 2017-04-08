@@ -1,7 +1,7 @@
 {
-  "name": "material-ui-scrolling-techniques",
+  "name": "material-ui-scrolling-techniques-rev",
   "version": "0.2.1",
-  "description": "Scrolling techniques from material design spec for material-ui",
+  "description": "Scrolling techniques from material design spec for material-ui (reviewed)",
   "main": "./lib",
   "scripts": {
     "clean": "rimraf lib",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/newoga/material-ui-scrolling-techniques.git"
+    "url": "https://github.com/d0whc3r/material-ui-scrolling-techniques.git"
   },
   "author": "Neil Gabbadon <neil.gabbadon@gmail.com> (http://github.com/newoga)",
   "license": "MIT",
